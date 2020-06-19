@@ -1,0 +1,67 @@
+﻿@model CategoryViewModel
+
+@{
+    ViewData["Title"] = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search</h1>
+
+<div class="row">
+    <div class="col">
+        <form asp-action="Search">
+            <div class="form-group">
+                <label asp-for="NameCategory" class="control-label"></label>
+                <input asp-for="NameCategory" />
+                <input type="submit" value="Search" />
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subcategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stars)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Delivery)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (TempData["Categories"] != null)
+        {
+            @foreach (var item in TempData["Categories"] as IEnumerable<CategoryViewModel>)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NameCategory)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Subcategory)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Stars)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Delivery)
+                    </td>
+                </tr>
+            }
+        }
+        </tbody>
+</table>

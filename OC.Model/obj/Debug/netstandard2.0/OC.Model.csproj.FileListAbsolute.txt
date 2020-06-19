@@ -1,0 +1,9 @@
+C:\Users\lgopt\source\repos\OC\OC.Model\bin\Debug\netstandard2.0\OC.Model.deps.json
+C:\Users\lgopt\source\repos\OC\OC.Model\bin\Debug\netstandard2.0\OC.Model.dll
+C:\Users\lgopt\source\repos\OC\OC.Model\bin\Debug\netstandard2.0\OC.Model.pdb
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.csprojAssemblyReference.cache
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.csproj.CoreCompileInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.AssemblyInfoInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.AssemblyInfo.cs
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.dll
+C:\Users\lgopt\source\repos\OC\OC.Model\obj\Debug\netstandard2.0\OC.Model.pdb

@@ -1,0 +1,14 @@
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Business.deps.json
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Business.dll
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Business.pdb
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Data.dll
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Model.dll
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Data.pdb
+C:\Users\lgopt\source\repos\OC\OC.Business\bin\Debug\netstandard2.0\OC.Model.pdb
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.csprojAssemblyReference.cache
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.csproj.CoreCompileInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.AssemblyInfoInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.AssemblyInfo.cs
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.csproj.CopyComplete
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.dll
+C:\Users\lgopt\source\repos\OC\OC.Business\obj\Debug\netstandard2.0\OC.Business.pdb

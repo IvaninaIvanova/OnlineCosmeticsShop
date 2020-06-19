@@ -1,0 +1,12 @@
+C:\Users\lgopt\source\repos\OC\OC.Data\bin\Debug\netstandard2.0\OC.Data.deps.json
+C:\Users\lgopt\source\repos\OC\OC.Data\bin\Debug\netstandard2.0\OC.Data.dll
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.csprojAssemblyReference.cache
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.AssemblyInfoInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.AssemblyInfo.cs
+C:\Users\lgopt\source\repos\OC\OC.Data\bin\Debug\netstandard2.0\OC.Data.pdb
+C:\Users\lgopt\source\repos\OC\OC.Data\bin\Debug\netstandard2.0\OC.Model.dll
+C:\Users\lgopt\source\repos\OC\OC.Data\bin\Debug\netstandard2.0\OC.Model.pdb
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.csproj.CoreCompileInputs.cache
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.csproj.CopyComplete
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.dll
+C:\Users\lgopt\source\repos\OC\OC.Data\obj\Debug\netstandard2.0\OC.Data.pdb
